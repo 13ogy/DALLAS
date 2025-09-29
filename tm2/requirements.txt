@@ -1,0 +1,5 @@
+geopandas
+openpyxl
+matplotlib
+seaborn
+scikit-learn
